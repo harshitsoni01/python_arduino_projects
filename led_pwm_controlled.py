@@ -22,7 +22,7 @@ while True:
         led.write(a)
         time.sleep(0.008)
         a-=1
-    time.sleep(0.8)
+    time.sleep(0.9)
 board.exit()
 
 
