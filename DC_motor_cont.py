@@ -11,12 +11,14 @@ motor2 = board.get_pin("d:10:o")
 def clockwise():
     motor1.write(1)
     motor2.write(0)
+    time.sleep(5)
 def counterclockwise():
     motor2.write(1)
     motor1.write(0)
+    time.sleep(5)
 while True:
     clockwise()
-    time.sleep(1)
+    time.sleep(5)
     counterclockwise()
-    time.sleep(1)
+    time.sleep(5)
 board.exit()
