@@ -1,7 +1,9 @@
 Sunfounder Arduino Uno R3
 Programs to start your arduino projects 
-20 basic programs!  
+Basic programs!  
 
+CONNECT circuit according to the sunfounder Arduino superkit v2.0
+This can used for any arduino UNO
 ard_test:
 This is used to test the voltage of your arduiino
 
