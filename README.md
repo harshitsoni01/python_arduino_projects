@@ -9,6 +9,7 @@ DIGITAL_DICE:
 This is a fun project where you use python to generate a random number to display on 7 segment display
 
 Programs to start your arduino projects 
+
 Basic programs:
 
 ard_test:
