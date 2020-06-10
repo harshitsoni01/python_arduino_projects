@@ -1,13 +1,16 @@
 Arduino Uno R3
+
 CONNECT circuit according to the sunfounder Arduino superkit v2.0
 These programs can used for any arduino UNO
 
 PROJECTS:
+
 DIGITAL_DICE:
 This is a fun project where you use python to generate a random number to display on 7 segment display
 
 Programs to start your arduino projects 
 Basic programs:
+
 ard_test:
 This is used to test the voltage of your arduiino
 
