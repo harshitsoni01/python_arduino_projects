@@ -9,7 +9,7 @@ it.start()
 red = board.get_pin("d:13:o")
 white = board.get_pin("d:12:o")
 yellow = board.get_pin("d:11:o")
-m = Tk()
+m = Tk()#to create tkinter window
 #function for different led
 def led(args):
     if args == 1:
@@ -38,7 +38,7 @@ def led(args):
             refresh()
 #tkinter code 
 m.title("GUI + Arduino")
-m.geometry("600x600")
+m.geometry("600x600")#size of the window # its "x" not "*"
 thelabel = Label(m, text = "Welcome to led simulation!")
 thelabel.pack(side = TOP)
 b1 = Button(m, text = "RED LED ON", command = lambda: led(1)) # if the fucntions were definded individually/n
@@ -54,7 +54,7 @@ b5.pack()
 b6 = Button(m, text = "YELLOW LED OFF", command = lambda: led(6))
 b6.pack()
 
-def refresh(m):
+def refresh(m):#function to refresh the window after every button click so the window doesn't close
     m.destroy()
     m.__init__()
 m.mainloop()
