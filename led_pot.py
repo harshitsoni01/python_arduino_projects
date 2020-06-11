@@ -6,16 +6,10 @@ it = util.Iterator(board)
 it.start()
 
 led = board.get_pin("d:9:o")
-pot = board.get_pin("a:1:i")
+pot = board.get_pin("a:1:i")#use analog pins to read sensors
 
 while True:
-    # inputvalue = board.analog("a:1:i").read()
-    # inputvalue = int(inputvalue)
-    # print(inputvalue)
-    # if  inputvalue is not None:
-    #     led.write(inputvalue)
-    # time.sleep(1)
     sensor_value = pot.read()
-    print(sensor_value)
+    print(sensor_value)#if its showing none type then add 0.01 to (sensor_value + 0.01)
     led.write(sensor_value)
 board.exit()

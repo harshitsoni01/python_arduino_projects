@@ -5,13 +5,8 @@ board = Arduino("COM4")
 it = util.Iterator(board)
 it.start()
 
-led = board.get_pin("d:9:o")
+led = board.get_pin("d:9:p")
 
-# for a in range(0,255):
-#     led.write()
-#     time.sleep(0.8)
-
-# for a in range(255,0):
 while True:
     a = 0
     while a<=255:

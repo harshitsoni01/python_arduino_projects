@@ -13,7 +13,7 @@ e = board.get_pin("d:10:o")
 f = board.get_pin("d:8:o")
 g = board.get_pin("d:9:o")
 dp = board.get_pin("d:4:o")
-
+#function to create numbers and letters
 def digi1():
     b.write(1)
     c.write(1)
