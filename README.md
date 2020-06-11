@@ -6,6 +6,8 @@
 
 [Arduino circuit link](https://www.sunfounder.com/learn/category/Super-Kit-V2-0-for-Arduino.html)
 
+*_Before connecting the circuit verify the pins with code and link_*
+
 ### PROJECTS
 
 **DIGITAL_DICE**:
