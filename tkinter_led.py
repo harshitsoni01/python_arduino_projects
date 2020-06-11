@@ -12,7 +12,8 @@ m = Tk()
 def led_on():
     while True:
         led.write(1)
-        refresh(m)
+        refresh(m)#this causes a problem which can removed by removing 'm' 
+#but then the window will close after one click  
 
 def led_off():
     while True:
@@ -20,7 +21,7 @@ def led_off():
         refresh(m)
 
 m.title("GUI + Arduino")
-m.geometry("100x100")#pady for grid and themes for tkinter 
+m.geometry("100x100")#pady for grid and themes for tkinter. To get themes pip install ttkthemes
 thelabel = Label(m, text = "Welcome to led simulation!")
 thelabel.pack(side = TOP)
 
