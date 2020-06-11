@@ -4,7 +4,7 @@
 
 [Arduino circuit](https://www.sunfounder.com/learn/category/Super-Kit-V2-0-for-Arduino.html)
 
-These programs can used for any arduino UNO
+*These programs can used for any arduino UNO*
 
 ###PROJECTS:
 
