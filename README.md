@@ -28,7 +28,7 @@ This is used to test the voltage of your arduiino
 #### blinkled
 
 The program blinks led after a specified time delay
-![Alternate text](https://3.bp.blogspot.com/-3hdasamAtDQ/V3PV2sQHBlI/AAAAAAAAAA4/Onil9mWAchIRm0VHUvE3h3CSd13haQuZwCKgB/s1600/output_W5UjLK.gif)
+<img src = "https://3.bp.blogspot.com/-3hdasamAtDQ/V3PV2sQHBlI/AAAAAAAAAA4/Onil9mWAchIRm0VHUvE3h3CSd13haQuZwCKgB/s1600/output_W5UjLK.gif" height = 310 width =350>
 
 #### switch_led
 
