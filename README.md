@@ -1,10 +1,10 @@
-# Arduino Uno R3
+<h1 align = center> Arduino Uno R3 </h1>
 
 ## These programs can used for any arduino UNO
 
 ## Connect circuit according to the sunfounder arduino
 
-[Arduino circuit link](https://www.sunfounder.com/learn/category/Super-Kit-V2-0-for-Arduino.html)
+![Arduino circuit link](https://www.sunfounder.com/learn/category/Super-Kit-V2-0-for-Arduino.html)
 
 *_Before connecting the circuit verify the pins with code and link_*
 
