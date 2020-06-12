@@ -38,7 +38,7 @@ This is used to turn on led using a button
 
 Get the readings of your potentiometer
 
-![Alternate text](https://osoyoo.com/wp-content/uploads/2017/07/Potentiometer2.gif)
+![Alternate text](https://images.squarespace-cdn.com/content/v1/59a893fe197aea8d0ac37f09/1506056576961-JBTO2X3UBS4KJZ4DK2AT/ke17ZwdGBToddI8pDm48kIisVeufsLaqPYS75OuX1FxZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGUIyZMpo6jDvOlV8ELZznZDi-rr9EJ6o3n8IpvEJDIMaEcAfnVBrEqrgp1UxUHGkY/giphy.gif)
 
 #### led_pwm_controlled
 
