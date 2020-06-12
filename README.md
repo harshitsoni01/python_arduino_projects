@@ -8,6 +8,8 @@
 
 *_Before connecting the circuit verify the pins with code and link_*
 
+![Alternate text](https://img.shields.io/badge/Clones-40%2B-green)
+
 ## PROJECTS
 
 **DIGITAL_DICE**:
@@ -32,7 +34,7 @@ The program blinks led after a specified time delay
 
 This is used to turn on led using a button
 
-![Alternate text](https://cdn.instructables.com/ORIG/FWH/K9VB/JGQTF7RG/FWHK9VBJGQTF7RG.gif)
+<img src = "https://cdn.instructables.com/ORIG/FWH/K9VB/JGQTF7RG/FWHK9VBJGQTF7RG.gif" height = "300" width = "350">
 
 #### led_pot
 
@@ -44,13 +46,13 @@ Get the readings of your potentiometer
 
 The programs increases and decrease the brightness of led using pwm pin
 
-![Alternate text](https://cdn.instructables.com/ORIG/F9L/0KY5/JFMT9AQJ/F9L0KY5JFMT9AQJ.gif?auto=webp)
+![Alternate text](https://thumbs.gfycat.com/ClumsyFewKarakul-size_restricted.gif)
 
 #### DC_motor_cont/fan
 
 Control the direction and speed of your dc motor using arduino
 
-![Alternate text](https://cdn-blog.adafruit.com/uploads/2018/08/3896.gif)
+<img src = "https://cdn.instructables.com/ORIG/F3F/HO7Q/JSCG2JBZ/F3FHO7QJSCG2JBZ.jpg?auto=webp" height = 300 width = 350>
 
 *please check your code properly before running it. I lost my first motor to the improper code*
 
@@ -64,7 +66,7 @@ Control RGB led using arduino
 
 Turn on leds one after the other and simultaneously turninng off your previous led
 
-![Alternate text](https://cdn.instructables.com/FHC/Z5OJ/JDCBL4TD/FHCZ5OJJDCBL4TD.ANIMATED.LARGE.gif)
+<img src = "https://cdn.instructables.com/FHC/Z5OJ/JDCBL4TD/FHCZ5OJJDCBL4TD.ANIMATED.LARGE.gif" height = 300 width = 350>
 
 #### Tkinter_led
 
