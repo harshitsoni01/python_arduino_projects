@@ -8,7 +8,8 @@
 
 *_Before connecting the circuit verify the pins with code and link_*
 
-![Alternate text](https://img.shields.io/badge/Clones-40%2B-green)
+![Alternate text](https://img.shields.io/badge/Clones-65%2B-green)
+![Alt text](https://img.shields.io/badge/python-v3.8-yellow)
 
 ## PROJECTS
 
