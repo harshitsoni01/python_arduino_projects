@@ -96,4 +96,4 @@ Using this display numbers from 1 to 6
 
 This program tells the angular displacement of the rotary. It converts angular position to analog/digital output signal
 
-![](https://osoyoo.com/wp-content/uploads/2017/09/rotary-encoder.gif)
+![Alt text](https://osoyoo.com/wp-content/uploads/2017/09/rotary-encoder.gif)
