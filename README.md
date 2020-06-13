@@ -1,6 +1,6 @@
-<h1 align = center> Arduino Uno R3 </h1>
+<h1 align = center> Arduino UNO R3 </h1>
 
-## These programs can used for any arduino UNO
+## These programs can used for any Arduino UNO
 
 ### Connect circuit according to the sunfounder arduino
 
@@ -8,8 +8,10 @@
 
 *_Before connecting the circuit verify the pins with code and link_*
 
-![Alternate text](https://img.shields.io/badge/Clones-65%2B-green)
+![Alternate text](https://img.shields.io/badge/Clones-75%2B-g)
 ![Alt text](https://img.shields.io/badge/python-v3.8-yellow)
+![Alt text](https://img.shields.io/badge/Arduino-UNO-green)
+
 
 ## PROJECTS
 
@@ -66,7 +68,7 @@ Control RGB led using arduino
 
 #### flowing_led
 
-Turn on leds one after the other and simultaneously turninng off your previous led
+Turn on leds one after the other and simultaneously turning off your previous led
 
 <img src = "https://cdn.instructables.com/FHC/Z5OJ/JDCBL4TD/FHCZ5OJJDCBL4TD.ANIMATED.LARGE.gif" height = 300 width = 350>
 
@@ -80,10 +82,18 @@ Control multiple LED lights using Tkinter
 
 ![Alternate text](https://media1.giphy.com/media/Wqd5qegydUOE4nsq5o/giphy.gif)
 
-(there's a liitle problem in it but the programs still runs andd performs its task if someone finds a solution let me know)
+(there's a little problem in it but the programs still runs andd performs its task if someone finds a solution let me know)
 
 #### 7segmentdisplay
 
 Using this display numbers from 1 to 6
 
+![](https://i.pinimg.com/originals/dc/05/9f/dc059fbba8ee906341cf76f4e6529037.gif)
+
 *You can add more numbers and letters according to the pin diagram and apply it for many uses*
+
+#### rotary_encoder
+
+This program tells the angular displacement of the rotary. It converts angular position to analog/digital output signal
+
+![](https://osoyoo.com/wp-content/uploads/2017/09/rotary-encoder.gif)
