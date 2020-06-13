@@ -96,4 +96,4 @@ Using this display numbers from 1 to 6
 
 This program tells the angular displacement of the rotary. It converts angular position to analog/digital output signal
 
-![Alt text](https://osoyoo.com/wp-content/uploads/2017/09/rotary-encoder.gif)
+<img src = "https://i1.wp.com/electronicshobbyists.com/wp-content/uploads/2017/01/Rotary-encoder-arduino_bb.png" height = 320 width =370>
