@@ -8,7 +8,7 @@
 
 *_Before connecting the circuit verify the pins with code and link_*
 
-![Alternate text](https://img.shields.io/badge/Clones-75%2B-g)
+![Alternate text](https://img.shields.io/badge/Clones-85%2B-G)
 ![Alt text](https://img.shields.io/badge/python-v3.8-yellow)
 ![Alt text](https://img.shields.io/badge/Arduino-UNO-green)
 
@@ -38,7 +38,7 @@ The program blinks led after a specified time delay
 
 This is used to turn on led using a button
 
-<img src = "https://cdn.instructables.com/ORIG/FWH/K9VB/JGQTF7RG/FWHK9VBJGQTF7RG.gif" height = "300" width = "350">
+<img src = "https://cdn.instructables.com/ORIG/FWH/K9VB/JGQTF7RG/FWHK9VBJGQTF7RG.gif" height = "320" width = "370">
 
 #### led_pot
 
@@ -56,7 +56,7 @@ The programs increases and decrease the brightness of led using pwm pin
 
 Control the direction and speed of your dc motor using arduino
 
-<img src = "https://cdn.instructables.com/ORIG/F3F/HO7Q/JSCG2JBZ/F3FHO7QJSCG2JBZ.jpg?auto=webp" height = 300 width = 350>
+<img src = "https://cdn.instructables.com/ORIG/F3F/HO7Q/JSCG2JBZ/F3FHO7QJSCG2JBZ.jpg?auto=webp" height = 320 width = 370>
 
 *please check your code properly before running it. I lost my first motor to the improper code*
 
@@ -70,7 +70,7 @@ Control RGB led using arduino
 
 Turn on leds one after the other and simultaneously turning off your previous led
 
-<img src = "https://cdn.instructables.com/FHC/Z5OJ/JDCBL4TD/FHCZ5OJJDCBL4TD.ANIMATED.LARGE.gif" height = 300 width = 350>
+<img src = "https://cdn.instructables.com/FHC/Z5OJ/JDCBL4TD/FHCZ5OJJDCBL4TD.ANIMATED.LARGE.gif" height = 320 width = 370>
 
 #### Tkinter_led
 
@@ -97,3 +97,9 @@ Using this display numbers from 1 to 6
 This program tells the angular displacement of the rotary. It converts angular position to analog/digital output signal
 
 <img src = "https://i1.wp.com/electronicshobbyists.com/wp-content/uploads/2017/01/Rotary-encoder-arduino_bb.png" height = 320 width =370>
+
+#### Accelerometer ADXL335
+
+The ADXL335 is a complete 3-axis acceleration measurement system. It can be used for tilt-sensing and measure acceleration of gravity
+
+<img src = "https://lastminuteengineers.com/wp-content/uploads/arduino/ADXL335-Accelerometer-Module-Hardware-Overview.jpg" height = 320 width =370>
