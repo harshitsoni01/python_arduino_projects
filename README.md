@@ -4,6 +4,8 @@
 
 ### Connect circuit according to the sunfounder arduino
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/harshitsoni01)
+
 [Arduino circuit link](https://www.sunfounder.com/learn/category/Super-Kit-V2-0-for-Arduino.html)
 
 *_Before connecting the circuit verify the pins with code and link_*
